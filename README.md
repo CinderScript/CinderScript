@@ -7,5 +7,5 @@ Hello!  My name is Gregory Maynard.  I am currently a student at Seattle Pacific
 | `Go`| BNF Syntax Parser |
 | `Scheme`| Geometric Calculator |
 | `JavaScript`| [Hangman](https://www.google.com/url?q=http://pacific-hollows-77413.herokuapp.com/Hangman/hangman.html) |
-| `JavaScript`| Node JS Bookstore with crud operations |
+| `Express.js`| Node JS Bookstore with crud operations |
 | `C#`| Game developed using Unity3D: [AI_Rogues](https://cinderscript.azurewebsites.net/AI_Rogues) |
