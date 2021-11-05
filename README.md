@@ -1,5 +1,5 @@
 # Portfolio
-Hello!  My name is Gregory Maynard.  I am currently a student at Seattle Pacific University.  Most of the repositories here are class projects that I particularly enjoyed  There are also a few personal projects.
+Hello!  My name is Gregory Maynard.  I am currently an undergraduate student at Seattle Pacific University.  Most of the repositories here are class projects that I particularly enjoyed.  I have also included a few personal projects.
 
 | Language      | Project Description |
 | ----------- | ----------- |
