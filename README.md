@@ -10,4 +10,4 @@ Hello!  My name is Gregory Maynard.  I am currently an undergraduate student at 
 | `Scheme`| [Geometric Calculator](https://github.com/CinderScript/geometric-calculator-scheme) |
 | `JavaScript`| [Hangman](https://www.google.com/url?q=http://pacific-hollows-77413.herokuapp.com/Hangman/hangman.html) |
 | `Express.js`| Node JS Bookstore with crud operations |
-| `C#`| Game developed using Unity3D: [AI_Rogues](https://cinderscript.azurewebsites.net/AI_Rogues) |
+| `C#`| [AI_Rogues](https://cinderscript.azurewebsites.net/AI_Rogues) - Game developed using Unity3D |
