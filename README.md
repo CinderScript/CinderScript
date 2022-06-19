@@ -3,9 +3,9 @@ Hello!  My name is Gregory Maynard.  I am currently an undergraduate student at 
 
 | Language      | Project Description |
 | ----------- | ----------- |
-| `C#` | Pixel_Walker - Machine Learning [Pixel_Walker](https://www.youtube.com/watch?v=rsf0pJBeS-w) |
+| `C#` | [Pixel_Walker](https://www.youtube.com/watch?v=rsf0pJBeS-w) - Machine Learning |
 | `C++`| [Hoffman Encoder](https://github.com/CinderScript/huffman-encoder) |
-| `C` | Simple Colorful Linux Shell: [WAshell](https://github.com/CinderScript/emoji_shell) | 
+| `C` | [WAshell](https://github.com/CinderScript/emoji_shell) - Simple Colorful Linux Shell | 
 | `Go`| [BNF Syntax Parser](https://github.com/CinderScript/context-free-syntax-parser) |
 | `Scheme`| [Geometric Calculator](https://github.com/CinderScript/geometric-calculator-scheme) |
 | `JavaScript`| [Hangman](https://www.google.com/url?q=http://pacific-hollows-77413.herokuapp.com/Hangman/hangman.html) |
