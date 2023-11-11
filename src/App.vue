@@ -11,7 +11,7 @@
           ></b-img>
         </b-col>
         <b-col cols="auto">
-          <h1 class="company-name mt-3">Cinder Script</h1>
+          <h1 class="brand title mt-3">Cinder Script</h1>
         </b-col>
       </b-row>
 

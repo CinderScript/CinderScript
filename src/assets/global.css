@@ -16,12 +16,36 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Oxygen', sans-serif;
-    /* Add fallback font */
+        color: #ffffff;
 }
 
-.company-name {
+h3 {
+    font-size: 26px;
+}
+
+p, li {
+    font-size: 16;
+    font-weight: 400;
+    color: #bdbdbd;
+    line-height: 1.6;
+}
+
+strong {
+    color: #ededed;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.brand {
     font-family: 'Junge', sans-serif;
-    font-size: 40pt
+}
+
+.title {
+    font-size: 40pt;
 }
 
 .nav-item {

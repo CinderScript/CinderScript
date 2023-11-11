@@ -79,12 +79,12 @@
       <!-- About Section -->
       <b-row class="mt-5">
         <b-col cols="12" lg="6">
-          <h2 class="text-center">CinderScript</h2>
+          <h2 class="text-center brand">Cinder Script</h2>
           <p class="mt-3">
-            I am an independent software developer based in Seattle who has
+            I am an independent software developer based in Seattle, WA who has
             enjoyed developing small games and simulations in Unity since
-            version 2.0. Any inquiries about Cinder Script or these products can
-            be sent to
+            version 2.0 in 2007. Any inquiries about Cinder Script or these
+            products can be sent to
             <a href="mailto:CinderScript@gmail.com">CinderScript@gmail.com</a>.
           </p>
         </b-col>
@@ -115,19 +115,5 @@
 .banner-image {
   height: 500px;
   width: auto;
-}
-
-.text-center {
-  text-align: center;
-}
-
-h2 {
-  color: #ffffff; /* Adjust the color to fit your site's theme */
-  margin-bottom: 20px;
-}
-
-p {
-  color: #bdbdbd; /* Soften the text color for readability */
-  line-height: 1.6; /* Improve readability */
 }
 </style>
