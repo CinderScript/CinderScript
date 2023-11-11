@@ -38,7 +38,7 @@
       <b-row>
         <b-col md="6" class="mb-4">
           <b-img
-            src="../assets/3DAssets/1911/1911-Blackened.png"
+            src="@/assets/3DAssets/1911/1911-Blackened.png"
             class="img-fluid"
             alt="3D asset"
           ></b-img>
@@ -46,7 +46,7 @@
 
         <b-col md="6" class="mb-4">
           <b-img
-            src="../assets/3DAssets/1911/1911-Blued.png"
+            src="@/assets/3DAssets/1911/1911-Blued.png"
             class="img-fluid"
             alt="3D asset"
           ></b-img>
@@ -54,7 +54,7 @@
 
         <b-col md="6" class="mb-4">
           <b-img
-            src="../assets/3DAssets/1911/1911-Cobalt.png"
+            src="@/assets/3DAssets/1911/1911-Cobalt.png"
             class="img-fluid"
             alt="3D asset"
           ></b-img>
@@ -62,7 +62,7 @@
 
         <b-col md="6" class="mb-4">
           <b-img
-            src="../assets/3DAssets/1911/1911-Tan Lower.png"
+            src="@/assets/3DAssets/1911/1911-Tan Lower.png"
             class="img-fluid"
             alt="3D asset"
           ></b-img>
@@ -70,7 +70,7 @@
 
         <b-col md="6" class="mb-4">
           <b-img
-            src="../assets/3DAssets/1911/1911-Tarnished.png"
+            src="@/assets/3DAssets/1911/1911-Tarnished.png"
             class="img-fluid"
             alt="3D asset"
           ></b-img>

@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
-import StateWeaver from '../views/StateWeaver.vue'
-import Assets3D from '../views/3DAssets.vue'
-import AboutView from '../views/AboutView.vue'
+import HomeView from '@/views/HomeView.vue'
+import StateWeaver from '@/views/StateWeaver.vue'
+import Assets3D from '@/views/3DAssets.vue'
+import AboutView from '@/views/AboutView.vue'
 
 Vue.use(VueRouter)
 

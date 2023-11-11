@@ -43,7 +43,7 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="../assets/3DAssets/1911/1911-Blackened.png"
+            src="@/assets/3DAssets/1911/1911-Blackened.png"
             alt="State Weaver Image"
             class="img-fluid"
           ></b-img>
@@ -65,7 +65,7 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="../assets/3DAssets/1911/1911-Blackened.png"
+            src="@/assets/3DAssets/1911/1911-Blackened.png"
             alt="3D Assets Image"
             class="img-fluid"
           ></b-img>
@@ -88,7 +88,7 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="../assets/Seattle_red_white_darkbackground.jpg"
+            src="@/assets/Seattle_red_white_darkbackground.jpg"
             alt="About Image"
             class="img-fluid"
           ></b-img>
