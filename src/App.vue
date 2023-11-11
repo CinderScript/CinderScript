@@ -5,7 +5,7 @@
       <b-row class="align-items-center justify-content-center pt-4">
         <b-col cols="auto">
           <b-img
-            src="@/assets/feather-pen-logo.png"
+            src="@/assets/img/branding/feather-pen-logo.png"
             alt="Feather Pen"
             class="feather-logo"
           ></b-img>
@@ -21,7 +21,7 @@
           <b-nav-item to="/" exact>Home</b-nav-item>
           <b-nav-item to="/state-weaver">StateWeaver</b-nav-item>
           <b-nav-item to="/3d-assets">3D Assets</b-nav-item>
-          <b-nav-item to="/#about">About</b-nav-item>
+          <b-nav-item to="/about">About</b-nav-item>
         </b-nav>
       </b-row>
     </b-container>

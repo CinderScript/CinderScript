@@ -3,7 +3,7 @@
     <div class="divider-cinderscript"></div>
     <div class="banner-container">
       <img
-        src="@/assets/CinderScript-flaming-pen-banner.jpg"
+        src="@/assets/img/branding/CinderScript-flaming-pen-banner.jpg"
         alt="Banner"
         class="banner-image"
       />
@@ -43,7 +43,7 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="@/assets/3DAssets/1911/1911-Blackened.png"
+            src="@/assets/img/3DAssets/1911/1911-Blackened.png"
             alt="State Weaver Image"
             class="img-fluid"
           ></b-img>
@@ -65,10 +65,12 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="@/assets/3DAssets/1911/1911-Blackened.png"
+            src="@/assets/img/3DAssets/1911/1911-Blackened.png"
             alt="3D Assets Image"
             class="img-fluid"
           ></b-img>
+
+          <p>View Assets</p>
         </b-col>
       </b-row>
 
@@ -77,7 +79,7 @@
       <!-- About Section -->
       <b-row class="mt-5">
         <b-col cols="12" lg="6">
-          <h2 id="about" class="text-center">About</h2>
+          <h2 class="text-center">CinderScript</h2>
           <p class="mt-3">
             I am an independent software developer based in Seattle who has
             enjoyed developing small games and simulations in Unity since
@@ -88,7 +90,7 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="@/assets/Seattle_red_white_darkbackground.jpg"
+            src="@/assets/img/branding/Seattle_red_white_darkbackground.jpg"
             alt="About Image"
             class="img-fluid"
           ></b-img>
