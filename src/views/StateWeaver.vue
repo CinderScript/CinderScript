@@ -74,9 +74,26 @@
     <div class="divider-cinderscript my-4"></div>
 
     <b-container>
-      <b-row>
-        <b-col>
-          <p>Coming Soon.</p>
+      <b-row class="mt-5">
+        <b-col cols="12" lg="6">
+          <h2 class="text-center">Coming Soon</h2>
+        </b-col>
+      </b-row>
+
+      <b-row class="my-3">
+        <b-col cols="12" lg="6">
+          <b-img
+            src="@/assets/img/products/StateWeaver_sample_transition.jpg"
+            alt="State Weaver Image"
+            class="img-fluid"
+          ></b-img>
+        </b-col>
+        <b-col cols="12" lg="6">
+          <b-img
+            src="@/assets/img/products/StateWeaver_sample_graph.jpg"
+            alt="State Weaver Image"
+            class="img-fluid"
+          ></b-img>
         </b-col>
       </b-row>
     </b-container>

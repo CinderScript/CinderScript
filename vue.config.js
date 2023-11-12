@@ -3,7 +3,9 @@ const { defineConfig } = require('@vue/cli-service');
 module.exports = defineConfig({
   transpileDependencies: true,
 
-  publicPath: process.env.NODE_ENV === "production" ? "/CinderScript/" : "/",
+  // /CinderScript/ for CinderScript.github.io (github pages) hosted location
+  //publicPath: process.env.NODE_ENV === "production" ? "/CinderScript/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/" : "/",
 
   chainWebpack: config => {
     config.module

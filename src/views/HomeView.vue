@@ -43,10 +43,12 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="@/assets/img/3DAssets/1911/1911-Blackened.png"
+            src="@/assets/img/products/StateWeaver_sample_graph.jpg"
             alt="State Weaver Image"
             class="img-fluid"
           ></b-img>
+
+          <p class="mt-3">Get it here: coming soon</p>
         </b-col>
       </b-row>
 
@@ -62,6 +64,7 @@
             If there is interest in these products, I may introduce new versions
             of the current models with LOD.
           </p>
+          <p class="mt-3">Get 3D assets here: coming soon</p>
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
@@ -69,8 +72,6 @@
             alt="3D Assets Image"
             class="img-fluid"
           ></b-img>
-
-          <p>View Assets</p>
         </b-col>
       </b-row>
 
