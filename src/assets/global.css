@@ -16,11 +16,30 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Oxygen', sans-serif;
-        color: #ffffff;
+    color: #ffffff;
+    margin-top: 20px;
 }
 
 h3 {
-    font-size: 26px;
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    margin-top: 15px;
+    margin-bottom: 7px;
+}
+
+h5+hr {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+hr {
+    background-color: #782b2b;
 }
 
 p, li {
@@ -30,9 +49,14 @@ p, li {
     line-height: 1.6;
 }
 
+
 strong {
     color: #ededed;
     font-family: 'Oxygen', sans-serif;
+}
+
+.figure-caption{
+    color: #ababab;
 }
 
 .text-center {
@@ -54,7 +78,6 @@ strong {
 
 .divider-cinderscript {
     height: 2px;
-    /* Height of the divider */
     background: linear-gradient(to right,
             black 0%,
             rgb(55, 0, 0) 20%,
@@ -64,8 +87,10 @@ strong {
             rgb(55, 0, 0) 79%,
             black 100%);
     background-size: 1300px 100%;
-    /* Fixed width of the gradient */
     background-repeat: no-repeat;
     background-position: center;
-    /* Center the background */
+}
+
+.text-warning-muted {
+    color: #bb6823;
 }

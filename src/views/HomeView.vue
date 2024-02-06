@@ -18,7 +18,7 @@
           <h2 class="text-center">
             Accelerate Your Game Design with State Weaver
           </h2>
-          <p class="mt-3">
+          <p>
             Welcome to Cinder Script, an independent developer with a passion
             for game development. I am dedicated to working on
             <strong>State Weaver</strong>, a versatile tool initially crafted to
@@ -43,9 +43,9 @@
         </b-col>
         <b-col cols="12" lg="6">
           <b-img
-            src="@/assets/img/products/StateWeaver_sample_graph.jpg"
+            src="@/assets/img/products/StateWeaver/StateWeaver_sample_graph.jpg"
             alt="State Weaver Image"
-            class="img-fluid"
+            fluid
           ></b-img>
 
           <p class="mt-3">Get it here: coming soon</p>
@@ -55,7 +55,7 @@
       <div class="divider-cinderscript my-4"></div>
 
       <!-- 3D Assets Section -->
-      <b-row class="mt-5">
+      <b-row>
         <b-col cols="12" lg="6">
           <h2 class="text-center test">Free 3D Assets</h2>
           <p class="mt-3">
@@ -70,7 +70,7 @@
           <b-img
             src="@/assets/img/3DAssets/1911/1911-Blackened.png"
             alt="3D Assets Image"
-            class="img-fluid"
+            fluid
           ></b-img>
         </b-col>
       </b-row>
@@ -78,7 +78,7 @@
       <div class="divider-cinderscript my-4"></div>
 
       <!-- About Section -->
-      <b-row class="mt-5">
+      <b-row>
         <b-col cols="12" lg="6">
           <h2 class="text-center brand">Cinder Script</h2>
           <p class="mt-3">
@@ -93,7 +93,7 @@
           <b-img
             src="@/assets/img/branding/Seattle_red_white_darkbackground.jpg"
             alt="About Image"
-            class="img-fluid"
+            fluid
           ></b-img>
         </b-col>
       </b-row>
